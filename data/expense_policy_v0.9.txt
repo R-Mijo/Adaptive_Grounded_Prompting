@@ -1,0 +1,6 @@
+DESERT HORIZON SERVICES EXPIRED EXPENSE POLICY
+Policy ID DHS-EXP-001; source_id DHS-EXP-001-v0.9
+Version 0.9; EXPIRED 2026-09-30; not approved for the October test submissions.
+Hotel rate limit $250 per night before taxes.
+Ground transportation receipts required only above $50.
+This expired source must not govern the test cases.
